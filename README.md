@@ -1,5 +1,5 @@
 # Team Shaggy TDOA Firmware by Bryan Chen
-## June 13, 2017 Los Angeles, CA.
+ June 13, 2017 Los Angeles, CA.
 
 ## This repository contains all of the firmware code for acoustic source localization
 ### Arduino code contains all code necessary to run on the Arduino. 
