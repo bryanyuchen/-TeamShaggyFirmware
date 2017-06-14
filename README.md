@@ -11,6 +11,7 @@ This library is also included in this repo for convenience but all copyrights go
 -3D code only utilizes Levenberg-Marquardt Algorithm because it assumes higher sampling precision
 
 ### Matlab code contains all code necessary to run simulations on Matlab and recreate the figures in the report.
+The plots are the .jpg files and the animations are the .avi files. Animations will need to be downloaded in order to view.
 
 -2D algorithm accuracy comparison compares the accuracy between Levenberg-Marquardt and IEKF given real data
 
